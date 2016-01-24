@@ -1,0 +1,11 @@
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.Domain\bin\Debug\BobsPizzaV2.Domain.dll
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.Domain\bin\Debug\BobsPizzaV2.Domain.pdb
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.Domain\obj\Debug\BobsPizzaV2.Domain.csprojResolveAssemblyReference.cache
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.Domain\obj\Debug\BobsPizzaV2.Domain.dll
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.Domain\obj\Debug\BobsPizzaV2.Domain.pdb
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.Domain\bin\Debug\BobsPizzaV2.DTO.dll
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.Domain\bin\Debug\BobsPizzaV2.Persistence.dll
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.Domain\bin\Debug\EntityFramework.dll
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.Domain\bin\Debug\BobsPizzaV2.DTO.pdb
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.Domain\bin\Debug\BobsPizzaV2.Persistence.pdb
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.Domain\bin\Debug\EntityFramework.xml

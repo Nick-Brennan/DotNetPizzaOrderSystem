@@ -1,0 +1,5 @@
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.DTO\bin\Debug\BobsPizzaV2.DTO.dll
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.DTO\bin\Debug\BobsPizzaV2.DTO.pdb
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.DTO\obj\Debug\BobsPizzaV2.DTO.csprojResolveAssemblyReference.cache
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.DTO\obj\Debug\BobsPizzaV2.DTO.dll
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\BobsPizzaV2\BobsPizzaV2.DTO\obj\Debug\BobsPizzaV2.DTO.pdb
